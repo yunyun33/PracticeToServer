@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticeToServer</string>
+
+    <string name="button_text">ミニしろくんのプロフィールを見てみる</string>
+    <string name="name_text">お名前：</string>
+    <string name="age_text">年齢：</string>
+    <string name="favorite_text">好きな食べ物：</string>
+</resources>
